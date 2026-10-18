@@ -1,0 +1,10 @@
+{
+  "appId": "com.pixelgrow.game",
+  "appName": "Pixelgrow",
+  "webDir": "www",
+  "server": {
+    "cleartext": true,
+    "allowNavigation": ["*"]
+  },
+  "backgroundColor": "#1b1f2b"
+}
